@@ -48,13 +48,11 @@ body {
 }
 
 
-.create-section {
+.create-section, .explore-section, .share-section{
     padding: 150px 0;
 }
 
-.explore-section {
-    padding: 150px 0;
-}
+
 
 .create-section .fas {
     background: #fff;
@@ -64,10 +62,19 @@ body {
 }
 
 
-.explore-section  {
+.explore-section, .share-section {
     background: #fff;
     color: #333;
     padding: 5px;
     border-radius: 5px;
     padding: 150px 0;
+}
+
+
+
+#share-head-section  {
+    color: #fff;
+    background: #008ed6;
+    padding: 5px;
+    border-radius: 5px;
 }
