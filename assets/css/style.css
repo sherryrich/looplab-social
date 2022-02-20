@@ -22,5 +22,52 @@ body {
     left: 0;
     width: 100%;
     min-height: 700px;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.4);
 } 
+
+#home-section .home-inner {
+    padding-top: 150px
+}
+
+#home-section .card-form {
+    opacity: 0.8;
+}
+
+#home-section .fas {
+    color: #008ed6;
+    background: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.explore-section .fas {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+.create-section {
+    padding: 150px 0;
+}
+
+.explore-section {
+    padding: 150px 0;
+}
+
+.create-section .fas {
+    background: #fff;
+    color: #0189ce;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+.explore-section  {
+    background: #fff;
+    color: #333;
+    padding: 5px;
+    border-radius: 5px;
+    padding: 150px 0;
+}
