@@ -1,3 +1,9 @@
-h1 {
-    color: red;
+body {
+    background: #333;
+    color: #fff;
+}
+
+.navbar {
+    border-bottom: #0189ce 3px solid;
+    opacity: .8;
 }
